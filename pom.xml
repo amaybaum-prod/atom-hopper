@@ -93,9 +93,9 @@
             </dependency>
 
             <dependency>
-                <groupId>org.hibernate</groupId>
+                <groupId>org.hibernate.orm</groupId>
                 <artifactId>hibernate-core</artifactId>
-                <version>4.1.3.Final</version>
+                <version>7.3.2.Final</version>
             </dependency>
 
             <dependency>
